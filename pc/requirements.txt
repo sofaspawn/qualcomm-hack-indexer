@@ -1,0 +1,7 @@
+watchdog
+pymupdf
+python-docx
+lancedb
+sentence-transformers
+numpy
+pyarrow
