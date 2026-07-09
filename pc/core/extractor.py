@@ -6,7 +6,7 @@ can be added by implementing a format extractor and registering it in
 the extractor registry.
 
 Usage:
-    from pc.extractor import extract
+    from pc.core.extractor import extract
 
     doc = extract("research_paper.pdf")
     print(doc.text[:500])
